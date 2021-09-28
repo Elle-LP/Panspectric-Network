@@ -1,0 +1,1 @@
+"a visual analytical software package that has been developed as a strategic, management and operational tool within Avon and Somerset Constabulary." (9 p.71)
