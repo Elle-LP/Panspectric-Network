@@ -26,6 +26,7 @@ jobs:
         run: |
           mkdir out
           cp -r static/* out/
+          cp 'data/Data Sharing Network/.obsidian/plugins/juggl/GlobalGraph/graph.json' out/
           oboe -e -t templates/template.html data/Data\ Sharing\ Network -o out/nodes
 
       - name: Publish
