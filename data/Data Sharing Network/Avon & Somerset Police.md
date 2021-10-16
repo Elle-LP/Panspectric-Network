@@ -1,4 +1,4 @@
-Data being shared relate to Anti-social behaviour, crime, domestic violence:
+The below list the connections that Avon and Somerset Police have to specific data and/or applications within Qlik Sense
 
 Also shared is data related to risk models but these will have their own links in the network
 
@@ -36,8 +36,18 @@ Also shared is data related to risk models but these will have their own links i
 
 [[Bristols Integrated Analytics Hub]]    (15)
 
-[[Office of Data Analytics]] (20)
+[[Office of Data Analytics]] (1)
 
 [[Violence Reduction Unit]] Violence Reduction Unit (29 p.21)
 
-(44) Provides full documentation of the data sharing occurring between [[Bristol City Council]] and Avon & Somerset Police which is facilitating the Think Family scheme
+(29) A diagram in this report reveals how data comes together from [[Bristol City Council]], [[Avon & Somerset Police]] and [[Thimk Family]] to build a representation of a person (Page 21)  
+
+**References**
+
+(1) https://media.nesta.org.uk/documents/State_of_Offices_of_Data_Analytics_ODA_in_the_UK_WEB_v5.pdf
+ 
+(2) https://datajustice.files.wordpress.com/2018/12/data-scores-as-governance-project-report2.pdf
+
+(15) https://www.bristol.gov.uk/documents/20182/34776/Think+Family+Data+Process+Map/c9a4c8f9-04a5-5655-346c-1470f83f1d1d
+
+(29) https://www.avonandsomerset-pcc.gov.uk/wp-content/uploads/2021/02/VRU_Annual_Report_Jan_2020.pdf
