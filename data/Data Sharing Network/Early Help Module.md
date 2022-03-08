@@ -1,6 +1,8 @@
 The Early Help Module is a Qlik Sense App, linked with Insight Bristol (Bristol's Integrated Analytics Hub) with a contact email of Avon and Somerset Police (18 p.58) [[Qlik Sense]]
 
-Think this relates to social care data systems.  Thsi is using the social care professions to collect data referring to some of the things below.   The Family Action Plan also includes information on Crime, ASB and school attendance. 
+The Think Family database operates through this application as advised on page 58 of https://www.proceduresonline.com/bristol/cs/user_controlled_lcms_area/uploaded_files/Families%20in%20Focus%20Operational%20Guidance%20v2.pdf
+
+Focuses on social care aspects using social care professions whereby the data below (not extensive) is collected.   The Family Action Plan also includes information on Crime, ASB and school attendance. 
 
 [[Professional Referrals]] (15)
 
