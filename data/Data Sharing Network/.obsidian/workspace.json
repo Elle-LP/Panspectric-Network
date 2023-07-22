@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "cee61f5294fd401f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f638bcb52548c585",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9639144bb416a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "85074d72c960f85b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "juggl_view",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29d9cd7c61de55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "674b1ad82cece9c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec12128b20bebd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c51c746e2ede47b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06fd075061beb7e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 395.5
+  },
+  "right": {
+    "id": "0ee6591692573d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1283cedd8579c71e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776c9815263cd670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "26656cfe1acd1331",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f222ab748525674",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "85074d72c960f85b",
+  "lastOpenFiles": [
+    "Allocation Management Application.md",
+    "Breach of Order of Injunction.md",
+    "BRAG Application (test).md",
+    "BGSW Crime Rehabilitation Company.md",
+    "Bath & North East Somerset CCG.md",
+    "Barnardos Children Charity - BASE.md",
+    "Avon & Wiltshire Mental Health Partnership NHS Trust.md",
+    "Avon & Somerset Police.md",
+    "Associate Network.md",
+    "Ara - Recovery for All.md",
+    "Antisocial Behaviour.md",
+    "Airwaves Emergency Communications Network.md",
+    "Adverse Childhood Experiences.md",
+    "Adult Benefit Cap.md",
+    "Actions to Become.md",
+    "Untitled 1.canvas",
+    "Department of Education.md",
+    "Untitled.canvas",
+    "Insight Bristol & Think Family.md",
+    "Office of Data Analytics.md",
+    "Bristol Recovery Orientated Alcohol and Drugs Service (ROADS).md",
+    "Bristol City Council.md",
+    "Predicting Offenders.md",
+    "Mental Health Concern.md",
+    "The Junction Project.md",
+    "General Practitioners.md",
+    "HawkSpring.md"
+  ]
+}

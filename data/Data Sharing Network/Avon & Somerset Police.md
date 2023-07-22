@@ -2,7 +2,7 @@ The below list the connections that Avon and Somerset Police have to specific da
 
 Also shared is data related to risk models but these will have their own links in the network
 
-[[Think Family]]  (15)
+[[Insight Bristol & Think Family]]  (15)
 
 [[Victim of DVA]]  (15)
  

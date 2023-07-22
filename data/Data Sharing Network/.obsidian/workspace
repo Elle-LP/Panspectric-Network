@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "cee61f5294fd401f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e25a2824a8178d9",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f29d9cd7c61de55a",
+    "type": "split",
+    "children": [
+      {
+        "id": "674b1ad82cece9c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ec12128b20bebd7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c51c746e2ede47b3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 499,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0ee6591692573d3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1283cedd8579c71e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "776c9815263cd670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "05897e3084c252c7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "07b4870978d95cec",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2e25a2824a8178d9",
+  "lastOpenFiles": [
+    "Bristol Recovery Orientated Alcohol and Drugs Service (ROADS).md",
+    "Bristol City Council.md",
+    "Predicting Offenders.md",
+    "Mental Health Concern.md",
+    "Think Family.md",
+    "The Junction Project.md",
+    "General Practitioners.md",
+    "HawkSpring.md",
+    "Developing Health & Independence (DHI Bristol).md",
+    "Bristol Drug Project.md"
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "cc86d051256ce462",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ddad469f2721cde",
+        "type": "leaf",
+        "pinned": true,
+        "state": {
+          "type": "juggl_view",
+          "state": {},
+          "pinned": true
+        }
+      },
+      {
+        "id": "3b421bc011843dcf",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "data/Data Sharing Network/Missing Persons.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb2e08c41e2895dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "74fe99381b3c9357",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce5ace27756d1343",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6dc119a479252899",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40668c23288d0d24",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4ccc6e81bb9dc09",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd97c09955a84666",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d603e30e82e591e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/Data Sharing Network/Missing Persons.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ee2c4ab035351dad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data/Data Sharing Network/Missing Persons.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2b0ead778b25d65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d622634cf73f650e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/Data Sharing Network/Missing Persons.md"
+              }
+            }
+          },
+          {
+            "id": "4c56536ba9e438b4",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "d93117ad2b5076af",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3b421bc011843dcf",
+  "lastOpenFiles": [
+    "data/Data Sharing Network/Missing Persons.md",
+    "data/Data Sharing Network/Think Family.md",
+    "data/Data Sharing Network/Office of Data Analytics.md",
+    "Thimk Family.md",
+    "data/Data Sharing Network/Avon & Somerset Police.md",
+    "data/Data Sharing Network/Bristols Integrated Analytics Hub.md",
+    "data/Data Sharing Network/Violence Reduction Unit.md",
+    "data/Data Sharing Network/Qlik Sense.md",
+    "data/Data Sharing Network/Adult Benefit Cap.md",
+    "data/Data Sharing Network/Accessed Homeless Prevention Support.md"
+  ]
+}

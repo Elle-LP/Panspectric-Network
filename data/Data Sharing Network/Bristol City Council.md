@@ -1,4 +1,4 @@
-[[NEET - Risk Model]] (15) (29 p.21) linked [[Think Family]] (15)
+[[NEET - Risk Model]] (15) (29 p.21) linked [[Insight Bristol & Think Family]] (15)
 
 [[Child at Risk of Criminal Exploitation - Risk Model]] (15) (29)
 
@@ -32,4 +32,4 @@
 
 Deeper information on some of these links also confirmed in (43)
 
-(44) Provides full documentation of the data sharing occurring between Bristol City and Council and [[Avon & Somerset Police]] which is facilitating the [[Think Family]] scheme
+(44) Provides full documentation of the data sharing occurring between Bristol City and Council and [[Avon & Somerset Police]] which is facilitating the [[Insight Bristol & Think Family]] scheme

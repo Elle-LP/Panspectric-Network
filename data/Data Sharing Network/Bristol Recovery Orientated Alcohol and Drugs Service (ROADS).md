@@ -1,3 +1,9 @@
+Bristol ROADS (Recovery Orientated Alcohol and Drugs Service) is commissioned by Bristol City Council.
+
+ROADS is a partnership between:
+
+
+
 [[Bristol City Council]]
 
 • Your personal details including name, age, gender, date of birth, address details, sexuality, disability status and ethnicity  
@@ -25,3 +31,9 @@ o National Health Service Act 2006.
 Our additional legal bases for using your special category information are: 
 • the delivery of health and social care services 
 • social security and social protection • public health/archiving  (41)
+
+https://www.bristol.gov.uk/social-care-health/drug-and-alcohol-misuse-support
+
+https://www.bristol.gov.uk/documents/20182/2592264/Substance+Misuse+Privacy+Notice.pdf/c32bc5c6-9e70-243d-57eb-814c2733ff32
+
+[[Drug & Alcohol Data Origins]]
