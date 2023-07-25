@@ -3,3 +3,5 @@ a covid series of apps were created by the team over 7 days - where were the con
 Available from: https://www.youtube.com/watch?v=FEQVSHviIEo&t=357s
 
 [[Qlik Sense]]
+
+#Qlik-Sense-Application

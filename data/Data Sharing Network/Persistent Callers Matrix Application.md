@@ -3,3 +3,5 @@ This reveals who are the top and persistent callers to 999.  It includes a ful b
 You can see the application here https://www.youtube.com/watch?v=PBvQUI83lfQ and it is also briefly discussed on page 54 in https://ssab.safeguardingsomerset.org.uk/wp-content/uploads/SSAB-Annual-Report-2017-18-FINAL.pdf
 
 [[Qlik Sense]]
+
+#Qlik-Sense-Application

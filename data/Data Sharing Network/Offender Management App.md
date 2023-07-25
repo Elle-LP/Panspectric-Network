@@ -13,3 +13,5 @@ It has been confirmed in an interview by (2) that many aspects important in dete
 in a different interview by (2 p.81) it is revealed that someone could have been identified as high risk due to being linked with a murder despite being eliminated from that investigation.  This raises questions in relation to what is classed as intelligence data and what Qlik can actually use to make the risk scores
 
 "using predictive modelling and profiling of an offender with level of risk, cohort and crime pattern" (3)
+
+#Qlik-Sense-Application

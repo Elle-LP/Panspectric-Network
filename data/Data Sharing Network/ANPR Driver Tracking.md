@@ -6,3 +6,5 @@ It is unclear whether this is a stand alone application or if it sits within ano
 
 [[Qlik Sense]] (14)
 
+#Qlik-Sense-Application
+

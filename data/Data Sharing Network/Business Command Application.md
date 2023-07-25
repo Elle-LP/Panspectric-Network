@@ -15,3 +15,5 @@ This application reveals the Front Dashboard which appears to be an overview of 
 Information taken from screens in the background of an official video https://www.youtube.com/watch?v=PBvQUI83lfQ
 
 [[Qlik Sense]]
+
+#Qlik-Sense-Application

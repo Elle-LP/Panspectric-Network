@@ -9,3 +9,5 @@ This is directly link to Lighthouse Safeguarding as the program carries out tagg
 This also feeds directly into Qlik Sense (27) although it is suspected it goes via a particular app but there is no data I have found to confirm which [[Qlik Sense]]
 
 Does this have any relation to the Integrated Offender Management, a predictive system used by West Midlands Police?  Need to confirm.
+
+#Qlik-Sense-Application

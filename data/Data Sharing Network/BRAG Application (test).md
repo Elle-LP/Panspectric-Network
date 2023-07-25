@@ -5,3 +5,5 @@ Quotation taken from p.31 https://www.avonandsomerset.police.uk/media/32340706/f
 Application revealed on screens in the bavkground of an official Qlik Sense promotional video https://www.youtube.com/watch?v=Tfk1IH5fAAE 
 
 [[Qlik Sense]]
+
+#Qlik-Sense-Application

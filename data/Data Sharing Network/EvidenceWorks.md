@@ -20,3 +20,5 @@ EvidenceWorks DEM fully integrates with the EvidenceWorks interview recordi
 
 All of the above taken from (37)  
 https://www.capita.com/expertise/industry-specific-services/public-safety/digital-evidence-management/evidence-management-technology
+
+#Qlik-Sense-Application

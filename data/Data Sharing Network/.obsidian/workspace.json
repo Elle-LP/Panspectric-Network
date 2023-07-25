@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "85074d72c960f85b",
+            "id": "49db0e2d59e637a1",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -26,9 +26,17 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "dcdd26bcb277dbaa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,34 +144,35 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "85074d72c960f85b",
+  "active": "dcdd26bcb277dbaa",
   "lastOpenFiles": [
-    "Allocation Management Application.md",
-    "Breach of Order of Injunction.md",
-    "BRAG Application (test).md",
-    "BGSW Crime Rehabilitation Company.md",
-    "Bath & North East Somerset CCG.md",
-    "Barnardos Children Charity - BASE.md",
-    "Avon & Wiltshire Mental Health Partnership NHS Trust.md",
-    "Avon & Somerset Police.md",
-    "Associate Network.md",
-    "Ara - Recovery for All.md",
-    "Antisocial Behaviour.md",
-    "Airwaves Emergency Communications Network.md",
-    "Adverse Childhood Experiences.md",
-    "Adult Benefit Cap.md",
-    "Actions to Become.md",
-    "Untitled 1.canvas",
-    "Department of Education.md",
-    "Untitled.canvas",
-    "Insight Bristol & Think Family.md",
-    "Office of Data Analytics.md",
-    "Bristol Recovery Orientated Alcohol and Drugs Service (ROADS).md",
-    "Bristol City Council.md",
-    "Predicting Offenders.md",
-    "Mental Health Concern.md",
+    "Weymouth & Portland Borough Council.md",
+    "Western Power.md",
+    "Weather Models.md",
+    "Vulnerable Person Management App.md",
+    "Vulnerability Risk Score.md",
+    "Violence Reduction Unit.md",
+    "Victim of DVA.md",
+    "University Hospitals Bristol NHS Foundation Trust.md",
+    "Torridge District Council.md",
+    "Torbay District Council.md",
+    "The Salvation Army.md",
     "The Junction Project.md",
-    "General Practitioners.md",
-    "HawkSpring.md"
+    "The Herbert Protocol.md",
+    "Teignbridge District Council.md",
+    "Teenage Parent.md",
+    "Taunton Dean.md",
+    "Swindon Borough Council.md",
+    "Staff & Resource Management.md",
+    "South West Ambulance Service Foundation Trust.md",
+    "South West Academic Health Science Network.md",
+    "South Wales Police.md",
+    "South Somerset District Council.md",
+    "South Gloucester Council.md",
+    "Somerset Transform.md",
+    "Somerset Survivors (SIDAS).md",
+    "Somerset Partnership NHS Foundation Trust.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
