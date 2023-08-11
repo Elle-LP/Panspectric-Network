@@ -83,7 +83,7 @@
                  cy.on('tap', 'node', function(evt){
                      var node = evt.target;
                      var path = node.data("path");
-                     path = path.replace(/ /g, "-").replace(".md", ".html").toLowerCase().split("/");
+                     path = path.replace(/ & /g, "-").replace(/ /g, "-").replace(".md", ".html").toLowerCase().split("/");
                      path = path[path.length - 1];
                      window.open("./nodes/" + path);
                  });        
